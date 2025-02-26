@@ -11,6 +11,3 @@ Welcome to my repository! It contains two major projects: one focusing on Titani
 ### 2. **Linear Regression Model for Ecommerce**:
 - This notebook demonstrates how to apply linear regression to ecommerce data.
 
-## Getting Started:
-To get started, clone the repository and install the necessary dependencies:
-
